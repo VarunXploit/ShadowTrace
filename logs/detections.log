@@ -1,0 +1,8 @@
+{"ts": "2025-09-03T15:14:47.403793Z", "category": "text", "input": {"text": "I will kill the VIP tomorrow"}, "result": {"is_threat": true, "probability": 0.6386344651718138}}
+{"ts": "2025-09-03T15:14:47.404855Z", "category": "text", "input": {"text": "What an amazing speech by the VIP today"}, "result": {"is_threat": true, "probability": 0.9796975251647817}}
+{"ts": "2025-09-03T15:14:47.410175Z", "category": "account", "input": {"followers_count": 20, "following_count": 2000, "account_age_days": 5, "post_count": 2, "has_profile_pic": 0, "has_bio": 0}, "result": {"is_fake": true, "probability": 1.0}}
+{"ts": "2025-09-03T15:14:47.414941Z", "category": "account", "input": {"followers_count": 5000, "following_count": 300, "account_age_days": 800, "post_count": 450, "has_profile_pic": 1, "has_bio": 1}, "result": {"is_fake": false, "probability": 0.0}}
+{"ts": "2025-09-03T15:14:47.417159Z", "category": "username", "input": {"username": "v1ratkohli"}, "result": {"closest_match": ["viratkohli", 0.9], "is_impersonation": true}}
+{"ts": "2025-09-03T15:54:13.766682Z", "category": "text", "input": {"text": "i will kill you"}, "result": {"is_threat": true, "probability": 0.6386344651718138}}
+{"ts": "2025-09-03T15:56:38.659782Z", "category": "account", "input": {"followers_count": 1000, "following_count": 2000, "account_age_days": 30, "post_count": 28, "has_profile_pic": 0, "has_bio": 0}, "result": {"is_fake": false, "probability": 0.445}}
+{"ts": "2025-09-03T15:57:44.901801Z", "category": "username", "input": {"username": "v1ratkohl1"}, "result": {"closest_match": ["viratkohli", 0.8], "is_impersonation": true}}

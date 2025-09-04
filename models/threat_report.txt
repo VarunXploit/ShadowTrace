@@ -1,0 +1,14 @@
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+           0      1.000     1.000     1.000       139
+           1      1.000     1.000     1.000        61
+
+    accuracy                          1.000       200
+   macro avg      1.000     1.000     1.000       200
+weighted avg      1.000     1.000     1.000       200
+
+Confusion Matrix (rows=true, cols=pred):
+[[139   0]
+ [  0  61]]
+ROC-AUC: 1.000
